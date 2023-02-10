@@ -1,2 +1,2 @@
 #!/bin/bash
-chnod -R *x .
+chnod -R *X .
