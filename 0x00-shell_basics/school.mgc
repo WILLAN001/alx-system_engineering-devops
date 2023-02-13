@@ -1,5 +1,3 @@
-#!/bin/bash
-
-0 spring=SCHOOL School data
-
-!:mime
+ls
+cd .
+cd ..
